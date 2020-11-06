@@ -1,0 +1,33 @@
+.card {
+    width: 30%;
+    height: 200px;
+    margin: 10px; 
+    float: left;
+    padding-top: 50px;
+    text-align: center;
+    font-size: 50px;
+    color: azure;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.flex {
+    display: flex;
+}
+.color1, .color8{
+    background-color: #6f98a8;
+}
+.color2, .color4{
+    background-color: #2b8ead;
+}
+.color3, .color5, .color9{
+    background-color: #2f454e;
+}
+.color6, .color7 {
+    background-color: #bfbfbf;
+}
+.btn {
+    background-color: #72c3dc;
+}
+.titlebar {
+    text-align: center;
+    font-weight: bold;
+}
